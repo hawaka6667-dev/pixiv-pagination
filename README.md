@@ -31,19 +31,6 @@ A Chrome extension that adds keyboard controls for pagination on Pixiv.
 
 The extension can also be packaged as a `.crx` file using Chrome's **Pack extension** function.
 
-## Project Structure
-
-```text
-pixiv-keyboard-pagination/
-├── manifest.json
-├── content.js
-├── content.edge.test.js
-├── README.md
-└── icons/
-    ├── icon16.png
-    ├── icon48.png
-    └── icon128.png
-```
 
 ## Current Limitations
 
